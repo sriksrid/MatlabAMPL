@@ -1,0 +1,6 @@
+<document>
+<category>lp</category>
+<solver>MOSEK</solver>
+<inputMethod>AMPL</inputMethod>
+
+<model><![CDATA[

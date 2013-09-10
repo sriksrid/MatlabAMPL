@@ -1,0 +1,6 @@
+<document>
+<category>lp</category>
+<solver>bpmpd</solver>
+<inputMethod>AMPL</inputMethod>
+
+<mod><![CDATA[

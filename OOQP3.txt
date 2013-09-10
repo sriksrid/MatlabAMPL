@@ -1,0 +1,9 @@
+]]></data>
+
+<commands><![CDATA[
+solve;
+display x;
+]]></commands>
+
+
+<comments><![CDATA[
